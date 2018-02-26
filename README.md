@@ -1,2 +1,2 @@
-# SOT
-EVL Simple Optimization Toolbox
+# EVL Simple Optimization Toolbox
+evl_sot
